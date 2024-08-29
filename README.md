@@ -1,0 +1,1 @@
+An SQL project for Data Analysis using Pizza Sales Dataset. In this Project I've performed various queries ranging from Basic to Advanced which could be useful to make business decisions related to overall pizza sales and to build useful Insights.
